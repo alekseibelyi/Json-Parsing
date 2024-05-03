@@ -1,0 +1,23 @@
+[
+    {
+        "lastName":"Акимова",
+        "firstName":"Ксения",
+        "middleName":"Юрьевна",
+        "email":"kseniya.akimova@domrf.ru",
+        "login":"ky.akimova"
+    },
+    {
+        "lastName":"Аникеева",
+        "firstName":"Мария",
+        "middleName":"Александровна",
+        "email":"mariya.anikeeva@domrf.ru",
+        "login":"ma.anikeeva"
+    },
+    {
+        "lastName":"Антонова",
+        "firstName":"Анастасия",
+        "middleName":"Владимировна",
+        "email":"anastasiia.antonova@domrf.ru",
+        "login":"av.antonova"
+    }
+]
